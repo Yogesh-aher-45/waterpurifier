@@ -1,0 +1,69 @@
+.contact{
+    margin-top: 9vw;
+    padding: 2vw 6vw;
+}
+
+.contact-detail ul li {
+
+    display: flex;
+}
+
+.contact-detail i {
+    font-size: 1.8vw;
+    color: #007A3D;
+
+
+}
+
+.contact-detail h1 {
+    margin-left: 0.7vw;
+    font-size: 2vw;
+    font-weight: bold;
+    color: #007A3D;
+}
+
+.contact-detail p {
+    margin-left: 0.7vw;
+    font-size: 0.8vw;
+    font-weight: bold;
+    color: gray;
+}
+
+.contact-form ul {
+    list-style: none;
+}
+
+.contact-form ul li input {
+
+    padding: 1px 5px;
+    height: 3vw;
+    width: 80%;
+    margin-top: 1vw;
+    border: 2px solid #007A3D;
+    border-radius: 1vw;
+    
+}
+.contact-form ul li input ::placeholder{
+    font-size: 1vw;
+}
+
+.contact-form textarea {
+    padding: 1px 5px;
+    height: 6vw;
+    width: 80%;
+    margin-top: 1vw;
+    border: 2px solid #007A3D;
+    border-radius: 1vw;
+}
+.contact-form button{
+    height: 3vw;
+    width: 80%;
+    margin-top: 1vw;
+    border: 2px solid #007A3D;
+    background-color: #007A3D;
+    border-radius: 1vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white;
+}
+

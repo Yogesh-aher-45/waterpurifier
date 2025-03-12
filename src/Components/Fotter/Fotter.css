@@ -1,0 +1,23 @@
+.footer{
+    height:auto;
+    width: 100%;
+    background-color: #007A3D;
+    margin-top:4vw;
+    padding: 4vw 10vw;
+    color: white;
+}
+.fotter-buttom ul {
+   margin-left: 20vw;
+   gap: 20px;
+   font-size: 1.4vw;
+}
+.fotter-buttom i{
+   font-size: 1.4vw;
+
+}
+@media (max-width:800px) {
+    .fotter-buttom i{
+        font-size: 3vw;
+     
+     } 
+}

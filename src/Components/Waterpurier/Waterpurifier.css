@@ -1,0 +1,25 @@
+.waterpurifier{
+    margin-top: 10vw;
+    padding: 1vw 8vw;
+    
+}
+.waterprifier-card img{
+    height: 17vw;
+    background-size:cover;
+    background-position: center;
+}
+.card-container img{
+    height: 1.9vw;
+}
+.card-container  p{
+    font-size: 1vw;
+}
+.card-container button{
+    height: 3vw;
+    width: 100%;
+    background-color: #007A3D;
+    border: none;
+    border-radius: 1vw;
+    color: white;
+    font-weight: bold;
+}

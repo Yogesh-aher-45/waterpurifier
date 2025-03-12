@@ -1,0 +1,23 @@
+.slider{
+    margin-top: 6.5vw;
+}
+.about {
+    margin-top: 7vw;
+}
+
+.about p{
+   font-size: 1.3vw;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    
+  
+  
+  
+}
+.about span {
+    font-size: 2.1vw;
+    color: #007A3D;
+    font-weight: bold;
+    text-transform: uppercase;
+}

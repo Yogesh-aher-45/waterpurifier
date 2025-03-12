@@ -1,0 +1,106 @@
+/* menubar-start */
+
+.navbar-menu{
+    height:6vw;
+    width: 100%;
+    background-color:white;
+    box-shadow:5px 0px 10px 1px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0vw 5vw;
+    position: fixed;
+    top: 0px;
+    z-index: 999;
+}
+.logo h2{
+    font-size: 2.5vw;
+    color: #007A3D;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menu-contact ul{
+    display: flex;
+    gap: 20px;
+    font-size: 1vw;
+    align-items: center;
+    margin-top: 1vw;
+    font-weight:500;
+  
+    
+}
+
+.logo-and-cart ul {
+    gap: 1vw;
+    margin-top: 1vw;
+    font-size: 1.4vw;
+}
+.logo-menu{
+    display: flex;
+    gap: 1vw;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo-menu i{
+    font-weight: bold;
+    font-size: 2vw;
+    margin-top: 2vw;
+}
+.logo-menu h2{
+    color: #007A3D;
+    font-weight: bold;
+    margin-top: 3vw;
+}
+.mobile_menu{
+    height: auto;
+    width: auto;
+    /* padding: 15vw 2vw; */
+    background-color:white;
+    position: absolute;
+    z-index: 9999;
+    display:table-column;
+    flex-direction: column;
+
+}
+
+.mobile_menu ul li {
+    margin-top: 7vw;
+}
+.menu-logo-and-cart ul{
+    display: table-column;
+    flex-direction: column;
+    font-size: 3vw;
+}
+
+@media (max-width:800px) {
+    .mobile_menu{
+        height: auto;
+        width: auto;
+        background-color:white;
+        position: absolute;
+        z-index: 9999;
+        display:table-column;
+        flex-direction: column;
+    
+    }
+    
+    
+    .navbar-menu{
+        height: 10vw;
+    }
+    .logo h2{
+        font-size: 4vw;
+    }
+    .logo-and-cart ul{
+        gap: 1vw;
+        margin-top: 1vw;
+        font-size: 3vw; 
+    }
+    .block-element ul{
+        font-size: 3vw;
+        font-weight: 700;
+        margin-top: 1vw;
+
+    }
+}
+
