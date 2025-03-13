@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a56ddcfb.css",
-    "main.js": "/static/js/main.b0365276.js",
-    "static/js/453.2b4c4585.chunk.js": "/static/js/453.2b4c4585.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.a56ddcfb.css.map": "/static/css/main.a56ddcfb.css.map",
-    "main.b0365276.js.map": "/static/js/main.b0365276.js.map",
-    "453.2b4c4585.chunk.js.map": "/static/js/453.2b4c4585.chunk.js.map"
+    "main.css": "/Yogesh-aher-45/waterpurifier.git/static/css/main.a56ddcfb.css",
+    "main.js": "/Yogesh-aher-45/waterpurifier.git/static/js/main.9eebfa1e.js",
+    "static/js/453.2b4c4585.chunk.js": "/Yogesh-aher-45/waterpurifier.git/static/js/453.2b4c4585.chunk.js",
+    "static/media/logo.svg": "/Yogesh-aher-45/waterpurifier.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yogesh-aher-45/waterpurifier.git/index.html",
+    "main.a56ddcfb.css.map": "/Yogesh-aher-45/waterpurifier.git/static/css/main.a56ddcfb.css.map",
+    "main.9eebfa1e.js.map": "/Yogesh-aher-45/waterpurifier.git/static/js/main.9eebfa1e.js.map",
+    "453.2b4c4585.chunk.js.map": "/Yogesh-aher-45/waterpurifier.git/static/js/453.2b4c4585.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a56ddcfb.css",
-    "static/js/main.b0365276.js"
+    "static/js/main.9eebfa1e.js"
   ]
 }
